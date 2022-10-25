@@ -1,8 +1,7 @@
-import '../styles/styles.css';
+import './styles.css';
 
 const SinglePriceGrid = () => {
   return (
-    <body>
       <main id="cardInfo">
         <section className="gridOne">
           <h1>join our community</h1>
@@ -36,7 +35,6 @@ const SinglePriceGrid = () => {
           </ul>
         </section>
       </main>
-    </body>
   );
 };
 
